@@ -340,6 +340,11 @@ td {
   border-radius: 4px;
   font-size: 12px;
 }
+
+.transaction-description {
+  font-weight: 600;
+}
+
 .text-red {
   color: var(--red-text);
   font-weight: 600;
